@@ -7,8 +7,8 @@ Drools KIE Server (rule execution). Part of the NNP Data Ingestion (DI) / integr
 Published to Docker Hub on every push to `main`:
 
 ```
-docker.io/nubons/pcom-di-drools-kie-server:latest
-docker.io/nubons/pcom-di-drools-kie-server:latest
+docker.io/nubonativesolution/pcom-di-drools-kie-server:latest
+docker.io/nubonativesolution/pcom-di-drools-kie-server:latest
 ```
 
 Architecture: `linux/amd64`.
